@@ -28,8 +28,7 @@ This project provided a detailed analysis of marketing campaign performance to t
 
 ---
 ## Dashboard Screenshot
-![dashboard-screenshot.png](dashboard.png)
-
+![dashboard-screenshot.png]
 ---
 
 ## Author
