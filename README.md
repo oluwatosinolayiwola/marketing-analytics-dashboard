@@ -27,8 +27,8 @@ This project provided a detailed analysis of marketing campaign performance to t
 - Conversion Rate
 
 ---
-## Screenshot
-![dashboard-screenshot](dashboard.png)
+## Dashboard Screenshot
+![dashboard-screenshot.png](dashboard.png)
 
 ---
 
