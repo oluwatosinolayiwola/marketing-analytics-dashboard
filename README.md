@@ -1,4 +1,4 @@
-# marketing-analytics-dashboard
+# Marketing-Analytics-dashboard
 This project provided a detailed analysis of marketing campaign performance to track overall effectiveness, compare performance across all marketing channels.
 
 ---
@@ -19,11 +19,14 @@ This project provided a detailed analysis of marketing campaign performance to t
 - **Excel** (Initial Data Review)
 
 ---
+
 ## Key KPIs
 - Total Revenue
+- Total Conversions
+- Overall ROI
+- Conversion Rate
 
-
-
+---
 
 ## Author
 **Oluwatosin Olayiwola**
