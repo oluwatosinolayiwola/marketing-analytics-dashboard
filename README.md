@@ -27,6 +27,10 @@ This project provided a detailed analysis of marketing campaign performance to t
 - Conversion Rate
 
 ---
+## Screenshot
+![dashboard-screenshot](dashboard.png)
+
+---
 
 ## Author
 **Oluwatosin Olayiwola**
