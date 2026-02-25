@@ -1,4 +1,4 @@
-# Marketing-Analytics-dashboard
+# Marketing Analytics Dashboard
 This project provided a detailed analysis of marketing campaign performance to track overall effectiveness, compare performance across all marketing channels.
 
 ---
