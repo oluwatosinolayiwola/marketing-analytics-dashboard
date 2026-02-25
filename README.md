@@ -34,5 +34,5 @@ This project provided a detailed analysis of marketing campaign performance to t
 
 ## Author
 **Oluwatosin Olayiwola**
-Email: tosin.ola6@gmail.com
+Email: tosin.k.olayiwola@gmail.com
 
